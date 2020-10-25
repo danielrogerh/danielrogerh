@@ -2,7 +2,7 @@
 
 ### Technologies of choice:
 
-<img src="./Images/CSharpIcon.png" alt="JavaScript Icon" width="25"/> <img src="./Images/ReactIcon.png" alt="JavaScript Icon" width="25"/> <img src="./Images/JSIcon.png" alt="JavaScript Icon" width="25"/>
+<img src="./Images/CSharpIcon.png" alt="C# Icon" height="30" style="margin-right: 3px"/> <img src="./Images/DotNetIcon.png" alt=".NET Icon" height="30" style="margin-right: 3px"/> <img src="./Images/ReactIcon.png" alt="React Icon" height="30" style="margin-right: 3px"/> <img src="./Images/JSIcon.png" alt="JavaScript Icon" height="30" style="margin-right: 3px"/> <img src="./Images/CSSIcon.png" alt="CSS Icon" height="30" style="margin-right: 3px"/>
 
 #
 
