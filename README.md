@@ -1,19 +1,8 @@
-<style>
-    body{
-        background-color: rgb(20,0,40);
-        color: rgb(200, 200, 200)
-    }
-</style>
-
 ## Norwegian IT-student with passion for Web Development
-
-#
 
 ### Technologies of choice:
 
-<img src="./Images/CSharpIcon.png" alt="JavaScript Icon" width="25"/> 
-<img src="./Images/ReactIcon.png" alt="JavaScript Icon" width="25"/> 
-<img src="./Images/JSIcon.png" alt="JavaScript Icon" width="25"/>
+<img src="./Images/CSharpIcon.png" alt="JavaScript Icon" width="25"/> <img src="./Images/ReactIcon.png" alt="JavaScript Icon" width="25"/> <img src="./Images/JSIcon.png" alt="JavaScript Icon" width="25"/>
 
 #
 
@@ -22,3 +11,5 @@
 <a href="https://goshin.no">Lørenskog Ju Jitsu</a>,
 <a href="https://hilz.no">Hilz</a>,
 <a href="http://offerdalconsulting.no">Offerdal Consulting</a>
+
+#
